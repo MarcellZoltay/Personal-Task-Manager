@@ -11,6 +11,3 @@ Az alkalmazás statisztikát készít, melyet a felhasználó grafikonokon
 * Perzisztens adattárolás
 * Adaptive layout (iPhone + iPad)
 * Chart használata külső könyvtárból
-* MapKit (opcionális)
-* Notification (opcionális)
-* iCloud támogatás (opcionális)
